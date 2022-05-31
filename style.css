@@ -44,7 +44,7 @@ html {
   }
   #cocktail li {
     padding: 15px 0;
-    font-size: 18px;
+    font-size: 30px;
   }
   #cocktail li:not(:last-of-type) {
     border-bottom: 1px solid #fff;

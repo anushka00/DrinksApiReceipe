@@ -46,6 +46,6 @@ html {
     padding: 15px 0;
     font-size: 18px;
   }
-  /* #cocktail li:not(:last-of-type) {
+  #cocktail li:not(:last-of-type) {
     border-bottom: 1px solid #fff;
-  } */
+  }
